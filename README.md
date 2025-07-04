@@ -1,6 +1,6 @@
 ## ROS2 with CA (Cellular Automata) for Robot Navigation
 
-Γινεται χρηση Cellular automata are used to process the local obstacle map generated from LIDAR data.
+Cellular automata are used to process the local obstacle map generated from LIDAR data.
 
 Based on the updated map, the robot makes navigation decisions: if there is an obstacle ahead, it changes course or activates an "escape mode" to escape if it gets stuck.
 
